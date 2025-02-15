@@ -17,6 +17,18 @@ I am Ashik Shetty, a passionate web developer who loves building **dynamic** and
 
 ---
 
+## 🎓 Education
+
+### **B.Tech in Computer Science**  
+*Srinivas University*  
+CGPA: 7.70 (2022 - Present)
+
+### **Diploma in Computer Science**  
+*Government Polytechnic, Udupi*  
+Percentage: 72% (2019 - 2022)
+
+---
+
 ## 🎼 Featured Projects
 
 ### **E-commerce Website**  
