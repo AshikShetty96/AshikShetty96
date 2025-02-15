@@ -3,7 +3,7 @@
 ## 🚀 Web Developer | Full Stack Enthusiast | React.js Specialist
 
 <p align="center">
-  <img src="https://your-image-link-here.com" width="200" alt="Ashik Shetty">
+  <img src="passport size.jpg" width="200" alt="Ashik Shetty">
 </p>
 
 ---
