@@ -3,8 +3,22 @@
 ## 🚀 Web Developer | Full Stack Enthusiast | React.js Specialist
 
 <p align="center">
-  <img src="passport size.jpg" width="200" alt="Ashik Shetty" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 0 10px rgba(76, 175, 80, 0.8);">
+  <div style="
+      width: 200px; 
+      height: 200px; 
+      border-radius: 50%; 
+      border: 6px solid #4CAF50; 
+      box-shadow: 0 0 20px rgba(76, 175, 80, 0.9); 
+      overflow: hidden; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center;">
+    <img src="passport size.jpg" width="50%" height="50%" alt="Ashik Shetty" 
+      style="object-fit: cover;">
+  </div>
 </p>
+
+
 
 ---
 
