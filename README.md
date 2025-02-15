@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source srcset="https://your-image-link-here.com" media="(prefers-color-scheme: dark)">
-    <img src="https://your-image-link-here.com" width="200" alt="Ashik Shetty" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 0 10px rgba(76, 175, 80, 0.8);">
+    <img src="passport size.jpg" width="200" alt="Ashik Shetty" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 0 10px rgba(76, 175, 80, 0.8);">
   </picture>
 </p>
 
